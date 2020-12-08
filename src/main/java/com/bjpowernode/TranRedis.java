@@ -15,6 +15,7 @@ public class TranRedis {
         multi.set("k4", "v4");
         multi.discard();
         //multi.exec();
-
+        System.out.println("222222222222222222222222222222");
+        System.out.println("333333333333333333333333333333333");
     }
 }
